@@ -7,7 +7,7 @@ public class createSalesBook {
 	@Test
 	public void createSales()
 	{
-		System.out.println("created sales");
+		System.out.println("====created sales====");
 	}
 	
 }
